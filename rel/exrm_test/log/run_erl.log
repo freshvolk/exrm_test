@@ -1,0 +1,8 @@
+run_erl [78826] Tue Jul 28 21:44:44 2015
+Args before exec of shell:
+run_erl [78826] Tue Jul 28 21:44:44 2015
+argv[0] = sh
+run_erl [78826] Tue Jul 28 21:44:44 2015
+argv[1] = -c
+run_erl [78826] Tue Jul 28 21:44:44 2015
+argv[2] = exec "/Users/bvolk/code/exrm_test/rel/exrm_test/bin/exrm_test" "console"
